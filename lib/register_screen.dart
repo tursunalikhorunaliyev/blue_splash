@@ -12,6 +12,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
   double shadowElevation_ = 5;
   double scaleLogin = 0;
   bool centerLogo = true;
+  //this is so cool
   bool isCollapsed = false;
   @override
   Widget build(BuildContext context) {
